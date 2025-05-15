@@ -1,0 +1,79 @@
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\appsettings.Development.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\appsettings.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\API.exe
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\API.deps.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\API.runtimeconfig.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\API.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\API.pdb
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Octokit.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.pack.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.build.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.development.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.CopyComplete
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\refint\API.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.pdb
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\obj\Debug\net7.0\ref\API.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Service.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\API\bin\Debug\net7.0\Service.pdb
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\appsettings.Development.json
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\appsettings.json
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\API.exe
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\API.deps.json
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\API.runtimeconfig.json
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\API.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\API.pdb
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Octokit.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Service.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Service.pdb
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.build.json
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.development.json
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.csproj.Up2Date
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.dll
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\refint\API.dll
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.pdb
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+E:\לימודים\practicode\project 5\CV site\API\obj\Debug\net7.0\ref\API.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\Scrutor.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\System.Text.Json.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+E:\לימודים\practicode\project 5\CV site\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll

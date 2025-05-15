@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "API.Controllers.GitHubController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/GitHub",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Service.Portfolio, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.GitHubController",
+    "Method": "SearchRepInCSharp",
+    "RelativePath": "api/GitHub/{repo_name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repo_name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Octokit.Repository, Octokit, Version=7.0.0.0, Culture=neutral, PublicKeyToken=0be8860aee462442]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.GitHubController",
+    "Method": "SearchRepositories",
+    "RelativePath": "api/GitHub/{repoName}/{userName}/{language}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repoName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Octokit.Repository, Octokit, Version=7.0.0.0, Culture=neutral, PublicKeyToken=0be8860aee462442]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

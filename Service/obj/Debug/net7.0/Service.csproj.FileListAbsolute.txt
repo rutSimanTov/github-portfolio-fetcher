@@ -1,0 +1,24 @@
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.deps.json
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.pdb
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\refint\Service.dll
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.pdb
+M:\PH\kt-14\tichnut\Ruti Siman Tov\practicode\project 5\CV site\Service\obj\Debug\net7.0\ref\Service.dll
+E:\לימודים\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.deps.json
+E:\לימודים\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.dll
+E:\לימודים\practicode\project 5\CV site\Service\bin\Debug\net7.0\Service.pdb
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.dll
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\refint\Service.dll
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\Service.pdb
+E:\לימודים\practicode\project 5\CV site\Service\obj\Debug\net7.0\ref\Service.dll
