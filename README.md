@@ -1,8 +1,8 @@
 
 
-# CV-Site
+# CV-Site 💼📑
 
-## Overview
+## Overview 🧐
 
 The **CV-Site** is a web service designed to provide seamless integration with GitHub. It offers functionalities such as fetching a user's repository portfolio, searching repositories in a specific language, and caching results for performance improvement. Built using **ASP.NET Core** and **Octokit**, it allows you to interact with GitHub data efficiently.
 
@@ -11,14 +11,14 @@ This API is structured with multiple services:
 * **Service Layer**: Provides core functionality for interacting with GitHub repositories.
 * **API Layer**: Exposes endpoints to access the service layer and cache GitHub data using an in-memory cache.
 
-## Features
+## Features ⚡
 
 * **Repository Search**: Search repositories on GitHub based on repository name, user, and programming language.
 * **Portfolio Retrieval**: Fetch details about a user's GitHub repositories, including stars, pull requests, last commit, and used programming languages.
 * **Caching**: Cache the portfolio data for faster response times using an in-memory cache.
 * **GitHub Authentication**: Uses a GitHub personal access token for authentication when accessing user data.
 
-## Technologies Used
+## Technologies Used 🧰
 
 * **.NET 7**: The application is built using .NET 7, utilizing its features such as nullable enablement, implicit using directives, and dependency injection.
 * **Octokit**: A .NET client library for interacting with the GitHub API.
@@ -26,7 +26,7 @@ This API is structured with multiple services:
 * **Microsoft.Extensions.Caching.Memory**: Caching mechanism to reduce redundant API calls to GitHub.
 * **ASP.NET Core**: Framework for building the web API.
 
-## Setup
+## Setup ⚙️
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ Alternatively, you can configure these settings using the `IConfiguration` inter
 
 4. Access the API documentation through Swagger UI at `http://localhost:5073/swagger`.
 
-## Endpoints
+## Endpoints 🔌
 
 ### `GET /api/github/{repo_name}`
 
@@ -103,7 +103,7 @@ Search for repositories by name, user, and programming language.
 
 * **Response**: A list of repositories that match the query.
 
-## Example Requests
+## Example Requests 💡
 
 ### Search for Repositories in C#:
 
@@ -123,12 +123,12 @@ GET /api/github
 GET /api/github/awesome-repo/johndoe/csharp
 ```
 
-## Cache Management
+## Cache Management 🧠
 
 * The portfolio data is cached for **30 seconds** (absolute expiration) and **10 seconds** (sliding expiration) to reduce the number of API calls to GitHub.
 * The cache key used is `UserPortfolioKey`.
 
-## Contributing
+## Contributing 🚀
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -136,7 +136,7 @@ GET /api/github/awesome-repo/johndoe/csharp
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## Acknowledgements
+## Acknowledgements ✨
 
 * **Octokit** for the GitHub API client.
 * **ASP.NET Core** and **Swagger** for building and documenting the API.
