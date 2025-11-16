@@ -1,10 +1,10 @@
 
 
-# GitHub Integration API
+# CV-Site
 
 ## Overview
 
-The **GitHub Integration API** is a web service designed to provide seamless integration with GitHub. It offers functionalities such as fetching a user's repository portfolio, searching repositories in a specific language, and caching results for performance improvement. Built using **ASP.NET Core** and **Octokit**, it allows you to interact with GitHub data efficiently.
+The **CV-Site** is a web service designed to provide seamless integration with GitHub. It offers functionalities such as fetching a user's repository portfolio, searching repositories in a specific language, and caching results for performance improvement. Built using **ASP.NET Core** and **Octokit**, it allows you to interact with GitHub data efficiently.
 
 This API is structured with multiple services:
 
