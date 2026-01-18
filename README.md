@@ -1,6 +1,6 @@
 
 
-# github-portfolio-fetcher 💼📑<img width="43" height="38" alt="image" src="https://github.com/user-attachments/assets/a9f1d3cb-c100-46d3-9f09-1ac868473cec" />
+# github-portfolio-fetcher 💼📑
 
 
 ## Overview 🧐
